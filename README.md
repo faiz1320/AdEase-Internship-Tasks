@@ -18,3 +18,4 @@ Part -> 2 (BACKGROUND IMAGE)
 Hence, I have tried my best to complete all the given tasks within short duration of time due to academic final sem exams.
 Regards,
 Faiz Khan
+I am now even more enthusiastic and grateful to work under AdEase as an intern.

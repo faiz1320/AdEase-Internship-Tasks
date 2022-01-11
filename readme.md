@@ -7,7 +7,7 @@ Download section on URL: https://www.uni-augsburg.de/en/fakultaet/fai/informatik
 
 Part -> 2 (TEXT and CALL TO ACTION BUTTON) -Part_2_Text_&_Call_to_action.ipynb file consist of python code in which extraction of texts & Call to action button texts have been extracted using "sample1.jpg" image.
 
-Part -> 2 (BACKGROUND IMAGE) -Part_2_Background.ipynb file consists of python code used for displaying the background image, by capturing & removing all the text from tha scraped image using 'sample.jpg' image.
+Part -> 2 (BACKGROUND IMAGE) -Part_2__Background.ipynb file consists of python code used for displaying the background image, by capturing & removing all the text from tha scraped image using 'sample.jpg' image.
 
 Hence, I have tried my best to complete all the given tasks within short duration of time due to academic final sem exams. Regards, Faiz Khan 
 I am now even more excited and grateful to work under AdEase as an intern.

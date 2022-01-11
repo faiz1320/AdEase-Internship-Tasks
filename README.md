@@ -1,5 +1,6 @@
 # AdEase-Internship-Tasks
-The pdf consists of total two tasks- divided as part-1 & part-2
+The pdf consists of total two tasks- divided as part-1 & part-2.
+
 Part -> 1 Scraping Display ads from a web page
     -Part-1 Web Scraping.ipynb file consist of python code for scraping display ads using "https://www.geeksforgeeks.org/" website, also tried with other websites too(websites         links saved inside 'input urls and images folder' ).
 --------------------------------------

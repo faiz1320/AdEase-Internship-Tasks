@@ -9,5 +9,6 @@ Part -> 2 (TEXT and CALL TO ACTION BUTTON) -Part_2_Text_&_Call_to_action.ipynb f
 
 Part -> 2 (BACKGROUND IMAGE) -Part_2_Background.ipynb file consists of python code used for displaying the background image, by capturing & removing all the text from tha scraped image using 'sample.jpg' image.
 
-Hence, I have tried my best to complete all the given tasks within short duration of time due to academic final sem exams. Regards, Faiz Khan I am now even more excited and grateful to work under AdEase as an intern.
+Hence, I have tried my best to complete all the given tasks within short duration of time due to academic final sem exams. Regards, Faiz Khan 
+I am now even more excited and grateful to work under AdEase as an intern.
  

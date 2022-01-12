@@ -1,0 +1,29 @@
+Python packages-
+
+Part-1 Web Scraping.ipynb
+ bs4
+ requests
+ BeautifulSoup
+ selenium
+ os
+
+Part_2_Logo_Detection_Product image.ipynb
+ pycparser
+ wheel
+ torchvision
+ os
+ torch
+ zipfile
+ shutil
+
+Part_2_Text_&_Call_to_action.ipynb
+ easyocr
+ opencv
+ rcParams
+ Image
+
+Part_2__Background.ipynb
+ keras_ocr
+ matplotlib
+ numpy
+ math
